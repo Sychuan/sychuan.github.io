@@ -17,7 +17,8 @@ header {
 }
 
 ::selection {	
-	background-color:#fff;
+	background-color:#fce5c2;
+	color:#915c0d;
 }
 
 article {
